@@ -1,2 +1,6 @@
 video tutorial: https://www.youtube.com/watch?v=BtPnoTfTkRE
 utm_trackign: https://support.google.com/google-ads/answer/6325879?hl=en
+
+
+Template
+?utm_source=google-ads&utm_campaign={_campaignname}&utm_agid={adgroupid}&utm_term={keyword}&creative={creative}&device={device}&placement={placement}
